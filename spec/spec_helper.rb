@@ -6,7 +6,7 @@
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 
-def Roll
+def roll
   1 + rand(6)
 end
 
